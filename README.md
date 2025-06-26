@@ -30,6 +30,8 @@ To get started with Brainwave, follow these steps:
    ```
    npm run dev
    ```
+## Deplyment link
+https://mazensamehr.github.io/Brainwave/
 
 ## Design Refrence
 https://ui8.net/ui8/products/brainwave-ai-landing-page-kit?rel=jsm
