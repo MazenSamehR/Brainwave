@@ -1,7 +1,7 @@
-import React from "react";
 import { notificationImages } from "../constants";
 import { notification1 } from "../assets";
 
+// eslint-disable-next-line react/prop-types
 const Notification = ({ className, title }) => {
   return (
     <div

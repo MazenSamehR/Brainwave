@@ -1,10 +1,17 @@
 import SectionSvg from "../assets/svg/SectionSvg";
+
 const Section = ({
+  // eslint-disable-next-line react/prop-types
   className,
+  // eslint-disable-next-line react/prop-types
   id,
+    // eslint-disable-next-line react/prop-types
   crosses,
+  // eslint-disable-next-line react/prop-types
   crossesOffset,
+  // eslint-disable-next-line react/prop-types
   customPadding,
+  // eslint-disable-next-line react/prop-types
   children,
 }) => {
   return (

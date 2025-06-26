@@ -1,5 +1,6 @@
 import TagLine from "./TagLine";
 
+// eslint-disable-next-line react/prop-types
 const Heading = ({ className, title, text, tag }) => {
   return (
     <div className={`${className} max-w-[50rem] mx-auto mb-12 lg:mb-20`}>

@@ -1,5 +1,5 @@
-import React from "react";
 import brackets from "../assets/svg/Brackets";
+// eslint-disable-next-line react/prop-types
 const TagLine = ({ className, children }) => {
   return (
     <div className={`tagline flex items-center ${className || ""}`}>

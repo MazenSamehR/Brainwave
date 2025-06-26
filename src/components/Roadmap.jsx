@@ -1,8 +1,7 @@
-import React from "react";
 import Section from "./Section";
 import Heading from "./Heading";
 import { roadmap } from "../constants";
-import { check, check2, grid, loading1 } from "../assets";
+import {check2, grid, loading1 } from "../assets";
 import TagLine from "./TagLine";
 import { Gradient } from "./design/design/Roadmap";
 import Button from "./Button";

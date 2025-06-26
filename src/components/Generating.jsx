@@ -1,4 +1,5 @@
 import { loading } from "../assets";
+// eslint-disable-next-line react/prop-types
 const Generating = ({ className }) => {
   return (
     <div

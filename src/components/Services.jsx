@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Section from "./Section";
 import Heading from "./Heading";
 import { check, service1, service2, service3 } from "../assets";
@@ -68,7 +68,7 @@ const Services = () => {
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/90 lg:p-15">
                 <h4 className="h4 mb-4">Photo editing</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
-                  Automatically enhance your photos using our AI app's photo
+                  Automatically enhance your photos using our AI app&apos;s photo
                   editing feature. Try it now!
                 </p>
               </div>
@@ -81,7 +81,7 @@ const Services = () => {
               <div className="py-12 px-4 xl:px-8">
                 <h4 className="h4 mb-4">Video generating</h4>
                 <p className="body-2 mb-[2rem] text-n-3">
-                  The world's powerful AI photo and video art generation engine.
+                  The world&apos;s powerful AI photo and video art generation engine.
                   What will you create?
                 </p>
 
